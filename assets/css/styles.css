@@ -1,0 +1,48 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card {
+  border: 1px solid gray;
+  border-radius: 10px;
+  padding: 20px;
+  text-align: left;
+  background-color: #7ca43c;
+  color: #fff;
+  font-size: 24px;
+}
+
+.div-precio {
+  margin-bottom: 20px;
+  font-size: 30px;
+}
+
+.div-botones {
+  display: flex;
+  align-items: center;
+}
+
+#cantidad {
+  font-size: 36px;
+}
+.sumar {
+  background-color: orange;
+  margin-left: 10px;
+  padding: 10px 15px;
+  font-size: 24px;
+}
+
+.restar {
+  background-color: orange;
+  margin-left: 10px;
+  padding: 10px 15px;
+  font-size: 24px;
+}
+
+.total {
+  padding-left: 20px;
+  font-weight: 700;
+  font-size: 30px;
+}

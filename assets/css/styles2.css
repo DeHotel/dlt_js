@@ -1,0 +1,12 @@
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.color-box {
+  padding: 20px;
+  text-align: center;
+  border: 2px solid black;
+  background-color: lightblue;
+}
